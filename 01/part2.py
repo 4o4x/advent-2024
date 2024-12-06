@@ -1,7 +1,3 @@
-
-
-# Read File there is two columns in the file with many space between them
-
 map1 = {}
 map2 = {}
 def read_file(file_path):

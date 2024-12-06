@@ -1,6 +1,3 @@
-
-
-# Read File there is two columns in the file with many space between them
 list1 = []
 list2 = []
 def read_file(file_path):

@@ -62,12 +62,3 @@ def read_file(file_path):
 print(read_file('input.txt'))
 
 print(is_safe([1, 2, 2 ,5]))
-
-# sorted_list1 = sorted(list1)
-# sorted_list2 = sorted(list2)
-
-# substracted_list = [abs(int(sorted_list2[i]) - int(sorted_list1[i])) for i in range(len(sorted_list1))]
-
-# sum_of_substracted_list = sum(substracted_list)
-
-# print(sum_of_substracted_list)
